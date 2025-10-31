@@ -21,3 +21,4 @@ struct Voter {
         votedFor = -1;
     }
 };
+#endif
